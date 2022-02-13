@@ -1,0 +1,6 @@
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\bin\Debug\TP6.exe
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\bin\Debug\TP6.pdb
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\obj\Debug\TP6.csprojAssemblyReference.cache
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\obj\Debug\TP6.exe
+C:\Users\theot\OneDrive\Bureau\Semestre 9\Trading C#\TPs\TP6\TP6\TP6\obj\Debug\TP6.pdb
